@@ -1,0 +1,13 @@
+.center{
+    text-align: center;
+}
+.padded{
+    padding: 30px 0;
+    margin-top: 50px;
+}
+.item-list{
+    padding: 5px;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
